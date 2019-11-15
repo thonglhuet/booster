@@ -1,0 +1,24 @@
+1. Caching model
+rails dev:cache
+
+
+
+2. 
+
+
+
+
+3. 
+
+
+
+
+4. 
+
+
+
+
+5. 
+
+
+
